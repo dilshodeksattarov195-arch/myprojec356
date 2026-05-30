@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "databaseralidate",
+        "uuid": 3015676,
+        "checksum": "wju98"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "production"
+    }
+}
